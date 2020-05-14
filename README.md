@@ -1,4 +1,5 @@
 
+[![Build Status](https://igrodrig.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://igrodrig.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=15&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
